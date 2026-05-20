@@ -1,2 +1,5 @@
 streamlit
 GitPython
+
+requests
+python-dotenv
